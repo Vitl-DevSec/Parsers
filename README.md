@@ -1,5 +1,13 @@
 # Parsers
 
+---
+
+<div align="center">
+  <img src=".assets/search.gif" alt="search" width="100%" style="max-width:100%;">
+</div>
+
+---
+
 ## Examples | Sites 
 
 ---
